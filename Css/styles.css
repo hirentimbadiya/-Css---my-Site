@@ -125,6 +125,13 @@ hr {
   margin: 40px auto 60px;
 }
 
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  font-family: "Merriweather", serif;
+}
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -152,9 +159,3 @@ hr {
   text-decoration: none;
 }
 
-.copyright {
-  color: #eaf6f6;
-  font-size: 0.75rem;
-  padding: 20px 0;
-  font-family: "Merriweather", serif;
-}
